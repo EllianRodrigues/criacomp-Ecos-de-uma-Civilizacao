@@ -30,6 +30,28 @@ Diferentes ferramentas podem ser utilizadas em etapas diferentes.
 Conforme o projeto avançar, registraremos aqui as ferramentas que realmente
 forem utilizadas.
 
+### ChatGPT
+
+**Uso no projeto:**
+
+Geração da imagem da descoberta 01, **Estela das Três Correntes**, a partir de
+um prompt textual detalhado.
+
+**Capacidades utilizadas:**
+
+Geração de imagem a partir de texto e controle, por linguagem natural, da
+composição, dos materiais, do contexto arqueológico e da aparência documental.
+
+**Limitações encontradas:**
+
+O modelo específico, a seed e os demais parâmetros técnicos da geração não
+foram apresentados na interface utilizada.
+
+**Observações:**
+
+O resultado selecionado representou satisfatoriamente os elementos centrais
+do prompt e foi incorporado à coleção.
+
 Para cada uma, podemos registrar:
 
 ### Nome da ferramenta
