@@ -55,3 +55,67 @@ registrada.
 Resultado aceito como a primeira descoberta de **Ecos de uma Civilização**.
 Seus elementos passam a integrar o conhecimento acumulado e deverão ser
 considerados na preparação da descoberta 02.
+
+---
+
+## 22/09/2026 — Preparação da descoberta 02
+
+### Conhecimento considerado
+
+A preparação partiu dos elementos estabelecidos pela Estela das Três
+Correntes: a pedra escura, os três sulcos convergentes, as incrustações de
+cobre, as inscrições desconhecidas, o reparo antigo e a entrada da estrutura
+subterrânea.
+
+### Ponto de partida escolhido
+
+A exploração avançará até o primeiro compartimento da estrutura, onde será
+encontrado um portal interno denominado provisoriamente **O Limiar Apagado**.
+O portal repetirá o motivo das três correntes, mas uma delas terá sido
+deliberadamente destruída enquanto as outras duas permaneceram preservadas.
+
+### Motivo da escolha
+
+Como a coleção terá doze artefatos, o grupo decidiu que a segunda descoberta
+deveria produzir um avanço narrativo maior do que apenas encontrar uma peça
+complementar à estela. Ao mesmo tempo, ela não deveria revelar a organização
+da civilização, o significado definitivo do símbolo ou a causa de seu
+desaparecimento.
+
+O apagamento seletivo confirma a recorrência das três correntes e introduz a
+primeira evidência de transformação ou conflito. A descoberta questiona a
+possível ideia de equilíbrio sugerida pela estela, mas mantém em aberto quem
+realizou o apagamento e o que a terceira corrente representava.
+
+### Decisões para a imagem
+
+- utilizar a primeira imagem como referência de materiais e linguagem visual;
+- apresentar um portal interno, evitando repetir a composição da estela;
+- manter exatamente três faixas identificáveis;
+- preservar duas faixas e mostrar destruição intencional somente na terceira;
+- distinguir marcas de cinzel de erosão ou quebra natural;
+- não introduzir habitantes, corpos, armas ou tecnologia avançada;
+- não determinar visualmente o significado das correntes;
+- manter a aparência de fotografia arqueológica documental.
+
+### Estado atual
+
+O prompt foi utilizado no ChatGPT com a primeira descoberta como referência
+visual. A imagem resultante preserva a pedra escura, o cobre oxidado, o sistema
+de inscrições e a aparência documental estabelecidos anteriormente.
+
+O portal apresenta duas correntes preservadas e uma região central destruída,
+com marcas que se diferenciam do desgaste natural. O espaço além da entrada
+permanece escuro e não antecipa novas descobertas. A imagem foi armazenada em
+`colecao/02-descoberta/imagem.png`, acompanhada de sua descrição.
+
+O modelo específico, a seed e os demais parâmetros não foram disponibilizados
+pela interface utilizada. A quantidade de tentativas não foi registrada.
+
+### Decisão
+
+Resultado aceito como a segunda descoberta de **Ecos de uma Civilização**.
+A recorrência das três correntes e o apagamento intencional de uma delas passam
+a integrar o conhecimento acumulado para a preparação da descoberta 03. O
+significado das correntes e a autoria ou motivação da destruição permanecem
+como questões abertas.

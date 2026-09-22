@@ -34,13 +34,15 @@ forem utilizadas.
 
 **Uso no projeto:**
 
-Geração da imagem da descoberta 01, **Estela das Três Correntes**, a partir de
-um prompt textual detalhado.
+Geração das imagens da descoberta 01, **Estela das Três Correntes**, e da
+descoberta 02, **O Limiar Apagado**, a partir de prompts textuais detalhados.
 
 **Capacidades utilizadas:**
 
 Geração de imagem a partir de texto e controle, por linguagem natural, da
 composição, dos materiais, do contexto arqueológico e da aparência documental.
+Na segunda descoberta, a imagem anterior também foi utilizada como referência
+para manter a continuidade visual da coleção.
 
 **Limitações encontradas:**
 
@@ -49,8 +51,8 @@ foram apresentados na interface utilizada.
 
 **Observações:**
 
-O resultado selecionado representou satisfatoriamente os elementos centrais
-do prompt e foi incorporado à coleção.
+Os resultados selecionados representaram satisfatoriamente os elementos
+centrais dos prompts e foram incorporados à coleção.
 
 Para cada uma, podemos registrar:
 
