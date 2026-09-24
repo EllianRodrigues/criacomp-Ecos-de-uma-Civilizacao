@@ -515,3 +515,142 @@ cotidiano, ou vestígios de que o tecido servia para envolver ou transportar
 algo relacionado às três partes. A descoberta pode começar a dar contexto à
 circulação ou manutenção entre diferentes pontos, mantendo a função exata em
 aberto.
+
+---
+
+## 24/09/2026 — Preparação da descoberta 09
+
+### Conhecimento considerado
+
+A preparação partiu do Tecido das Três Tramas (08), encontrado sobre a placa da
+Confluência Vazia. O tecido possuía três faixas de tramas diferentes, uma delas
+reparada, mas ainda não havia evidência suficiente para determinar se sua
+função era simbólica, cartográfica, decorativa ou utilitária.
+
+### Ponto de partida escolhido
+
+Ampliar a escavação na mesma área e encontrar um cesto de transporte oblongo,
+feito de fibras vegetais e madeira mineralizadas. Três tiras compatíveis com as
+faixas da descoberta anterior permanecem presas à armação como alças,
+amarrações ou divisórias de carga. A peça recebeu o nome **O Cesto de
+Travessia**.
+
+### Motivo da escolha
+
+O grupo decidiu que a nova descoberta deveria começar a revelar aspectos da
+vida cotidiana da civilização sem abandonar o conhecimento já construído. O
+cesto transforma o tecido de uma evidência ambígua em parte de um objeto
+utilitário e introduz as possibilidades de transporte, armazenamento e
+distribuição de materiais.
+
+Ao mesmo tempo, a descoberta não confirma que as três faixas correspondam às
+rotas das placas, nem que o cesto tenha sido usado em comércio ou por grupos
+sociais específicos.
+
+### Decisões para a imagem
+
+- utilizar a descoberta 08 como referência visual das fibras e do ambiente;
+- representar um cesto de transporte usado e parcialmente colapsado;
+- manter as três tiras como partes funcionais da estrutura;
+- incluir resíduos orgânicos, cerâmica e material mineral misturados;
+- evitar compartimentos perfeitamente separados;
+- não retornar a uma placa, estela ou objeto predominantemente simbólico;
+- manter a fotografia arqueológica documental em formato vertical.
+
+### Estado atual
+
+A imagem gerada apresenta um cesto oblongo com armação de madeira, amarrações
+de fibras e três tiras têxteis distintas. Uma delas conserva a coloração
+azul-esverdeada associada ao cobre, enquanto outra apresenta um reparo antigo.
+No interior aparecem resíduos escurecidos, fragmentos cerâmicos e sedimento.
+
+A imagem foi gerada no Codex com o gerador de imagens integrado, utilizando a
+descoberta 08 como referência. O modelo específico, a seed e os demais
+parâmetros não foram informados. O resultado possui 1122 × 1402 pixels e foi
+armazenado em `colecao/09-descoberta/imagem.png`.
+
+### Decisão
+
+Resultado aceito como a nona descoberta de **Ecos de uma Civilização**. O uso
+prático das tramas e a existência de um objeto de transporte passam a integrar
+o conhecimento acumulado. A identidade dos resíduos e a função original do
+cesto permanecem em aberto.
+
+---
+
+## 24/09/2026 — Preparação da descoberta 10
+
+### Conhecimento considerado
+
+A preparação partiu diretamente do Cesto de Travessia (09). A peça demonstrou
+que as tramas da descoberta 08 podiam ser usadas em um objeto utilitário e
+apresentou resíduos escurecidos, fragmentos cerâmicos e material mineral em seu
+interior.
+
+### Primeira direção considerada
+
+Inicialmente foi proposta uma área de preparo de alimentos em uma câmara
+adjacente, com fogareiro, pedra de moagem e um recipiente cerâmico reparado. A
+imagem correspondente chegou a ser gerada.
+
+Durante a avaliação, o grupo percebeu que essa passagem exigia três conclusões
+ainda não sustentadas: tratar os resíduos como alimento, presumir a existência
+de uma cozinha próxima e estabelecer uma relação funcional entre os dois
+espaços. A geração foi descartada por salto narrativo e preservada em
+`descartes/imagens/10-cozinha-salto-narrativo.png`.
+
+### Ponto de partida revisado
+
+Continuar a escavação do próprio Cesto de Travessia. A remoção da camada
+superior revela quatro pequenos recipientes cerâmicos de formato semelhante e
+em diferentes estados de conservação. A descoberta recebeu o nome **Os
+Recipientes do Cesto**.
+
+### Motivo da escolha
+
+A direção revisada acrescenta apenas um novo degrau ao conhecimento: depois de
+identificar o transporte de materiais, a coleção passa a investigar como essas
+cargas poderiam ser retiradas, separadas, servidas ou medidas.
+
+Os recipientes sugerem uma prática organizada, mas não confirmam padronização,
+alimentação, comércio ou administração. Dessa forma, a descoberta amplia a
+vida cotidiana sem depender de um novo espaço ou de uma função já definida.
+
+### Decisões para a imagem
+
+- utilizar a imagem 09 como referência direta do mesmo cesto;
+- aproximar o enquadramento de seu interior;
+- mostrar quatro recipientes, evitando repetir um conjunto de exatamente três;
+- variar o estado de conservação das peças;
+- manter resíduos escurecidos e material mineral claro;
+- incluir marcas de uso e uma ligação por cordão de fibra;
+- não introduzir cozinha, casa, mercado ou função alimentar confirmada;
+- preservar a fotografia arqueológica documental.
+
+### Estado atual
+
+A segunda imagem gerada mostra o interior do mesmo cesto após a retirada de
+parte das fibras e do sedimento. Dois recipientes aparecem relativamente
+íntegros, um está rachado e outro fragmentado. Resíduos escurecidos permanecem
+em algumas peças, enquanto uma delas contém uma crosta mineral clara. Um
+cordão de fibra passa pelo cabo de um dos recipientes.
+
+A imagem foi gerada no Codex com a descoberta 09 como referência. O modelo
+específico, a seed e os demais parâmetros não foram informados. O resultado
+possui 1122 × 1402 pixels e foi armazenado em
+`colecao/10-descoberta/imagem.png`.
+
+### Decisão
+
+Segunda geração aceita como a décima descoberta de **Ecos de uma Civilização**.
+A coleção passa a incluir evidências de que os materiais transportados eram
+manipulados com um conjunto de recipientes utilitários. Sua função exata e a
+identidade dos resíduos continuam abertas.
+
+### Direção possível para a descoberta 11
+
+Uma descoberta posterior pode analisar um dos materiais do cesto ou procurar,
+em outro ponto da escavação, uma evidência intermediária de onde esses
+recipientes eram utilizados. Para preservar a progressão, a próxima etapa deve
+testar apenas uma hipótese — alimentação, distribuição, produção ou outra — em
+vez de confirmar várias delas ao mesmo tempo.
