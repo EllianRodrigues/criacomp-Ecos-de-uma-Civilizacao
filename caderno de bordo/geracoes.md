@@ -242,3 +242,149 @@ existência de um objeto deliberadamente escondido, e não destruído, passa a
 integrar o conhecimento acumulado. Permanece em aberto se o disco pertence à
 cavidade da estela, ao receptáculo selado do nicho, a nenhum dos dois, e quem
 o escondeu.
+
+---
+
+## 23/09/2026 — Preparação da descoberta 05
+
+### Conhecimento considerado
+
+A preparação partiu da consolidação de um padrão recorrente em torno de três
+partes: a estela apresentou três correntes convergindo para um centro vazio,
+o portal revelou o apagamento deliberado de uma delas, o nicho mostrou três
+receptáculos com tratamento desigual e o disco oculto indicou que o elemento
+associado à terceira corrente havia sido preservado em segredo, e não apenas
+destruído.
+
+### Ponto de partida escolhido
+
+A exploração avança para uma pequena câmara lateral, onde a equipe encontra um
+bloco baixo de pedra escura, com três cavidades rasas alinhadas na superfície
+superior. Duas cavidades preservam resíduos orgânicos mineralizados e vestígios
+de cobre oxidado; a terceira, embora intacta, parece ter sido deliberadamente
+esvaziada ou limpa. A peça recebeu o nome provisório de **A Mesa das Três
+Ofertas**.
+
+### Motivo da escolha
+
+O grupo decidiu que a quinta descoberta deveria ampliar a civilização para além
+da arquitetura simbólica e dos objetos isolados, revelando um indício de
+prática material concreta. A nova peça sugere que o padrão triplo não era
+apenas decorativo, mas organizava ações repetidas — possivelmente oferendas,
+partilhas, preparos ou outra forma de procedimento estruturado.
+
+Ao mesmo tempo, a descoberta preserva a ambiguidade necessária ao projeto: não
+define se a estrutura é ritual, doméstica, política, funerária ou
+administrativa, nem explica de forma definitiva o significado das três partes.
+A terceira cavidade, novamente tratada de modo diferente, reforça a continuidade
+do mistério sem apenas repetir o apagamento do portal ou o selamento do nicho.
+
+### Decisões para a imagem
+
+- utilizar as descobertas anteriores como referência de pedra, cobre oxidado,
+  inscrições e linguagem documental;
+- apresentar a peça como um bloco baixo de pedra fixo ao solo, em uma pequena
+  câmara lateral;
+- manter exatamente três cavidades rasas alinhadas;
+- preservar resíduos materiais e vestígios de cobre nas duas primeiras;
+- representar a terceira cavidade intacta, porém esvaziada ou raspada, sem
+  destruição violenta e sem selamento;
+- evitar qualquer confirmação visual definitiva da função da peça;
+- manter a aparência de fotografia arqueológica documental.
+
+### Estado atual
+
+O prompt foi utilizado no ChatGPT com as descobertas anteriores como
+referência visual. A imagem resultante mostrou com clareza o bloco baixo de
+pedra escura em uma pequena câmara lateral, com três cavidades rasas
+alinhadas, inscrições discretas e vestígios de cobre oxidado preservados nas
+duas primeiras cavidades. A terceira cavidade apareceu intacta, porém mais
+limpa e esvaziada, sem marcas de destruição violenta nem selamento,
+correspondendo bem ao que havia sido planejado.
+
+A imagem foi armazenada em `colecao/05-descoberta/imagem.png`, acompanhada de
+sua descrição. O modelo específico, a seed e os demais parâmetros não foram
+disponibilizados pela interface utilizada.
+
+### Decisão
+
+Resultado aceito como a quinta descoberta de **Ecos de uma Civilização**. A
+peça passa a integrar a coleção como evidência de que o padrão triplo da
+civilização também organizava práticas materiais concretas. A diferença de
+tratamento da terceira cavidade permanece como uma nova questão aberta para as
+descobertas seguintes.
+
+
+
+---
+
+## 23/09/2026 — Preparação da descoberta 06
+
+### Conhecimento considerado
+
+A preparação partiu das cinco primeiras descobertas, nas quais o motivo das
+três correntes apareceu em monumentos, arquitetura, receptáculos, objetos e em
+uma prática material concreta. Em todas elas, a terceira parte do conjunto
+recebeu algum tipo de tratamento diferente ou permaneceu associada a uma lacuna
+interpretativa.
+
+### Ponto de partida escolhido
+
+A exploração avança para uma área próxima à Mesa das Três Ofertas, onde a
+equipe encontra uma placa larga de pedra escura quebrada em uma das
+extremidades. Em sua superfície há relevo baixo, três linhas sinuosas e
+agrupamentos de sinais distribuídos em regiões diferentes da peça. A terceira
+linha se perde justamente na área fraturada. A peça recebeu o nome provisório
+de **O Fragmento das Três Rotas**.
+
+### Motivo da escolha
+
+O grupo decidiu que a sexta descoberta deveria ampliar o universo da
+civilização para além dos objetos e das práticas localizadas, introduzindo a
+possibilidade de uma organização espacial mais ampla.
+
+A nova peça sugere que o motivo das três correntes pode estar relacionado a
+caminhos, regiões, territórios, cursos ou outra forma de estruturar o espaço,
+sem definir qual dessas interpretações é a correta.
+
+Também foi considerado importante evitar que toda ausência de informação sobre
+a terceira parte fosse explicada por destruição intencional. Neste caso, a
+perda da informação parece decorrer da quebra material da peça.
+
+### Decisões para a imagem
+
+- apresentar uma placa larga de pedra escura, caída e parcialmente quebrada;
+- utilizar visão quase superior para privilegiar a leitura da superfície;
+- manter três linhas sinuosas distribuídas pela peça;
+- incluir agrupamentos abstratos de sinais em duas regiões preservadas;
+- fazer a terceira linha desaparecer na área fraturada;
+- inserir um pequeno motivo circular que dialogue indiretamente com o Disco
+  Oculto;
+- preservar a estética de fotografia arqueológica documental;
+- evitar qualquer confirmação visual definitiva de que a peça representa um
+  mapa, rios ou estradas.
+
+### Estado atual
+
+O prompt foi utilizado no ChatGPT com as descobertas anteriores como
+referência visual. A imagem resultante apresenta uma placa larga de pedra
+escura caída no solo da escavação, vista quase de cima, com três linhas
+sinuosas distribuídas pela superfície, agrupamentos de sinais abstratos e
+vestígios azul-esverdeados de cobre oxidado.
+
+A terceira linha desaparece na área quebrada da peça, cuja fratura possui
+aspecto irregular e antigo, sem indicar apagamento deliberado. Um pequeno motivo
+circular preservado em outra região estabelece uma ligação visual indireta com
+o Disco Oculto. A imagem foi armazenada em
+`colecao/06-descoberta/imagem.png`, acompanhada de sua descrição.
+
+O modelo específico, a seed e os demais parâmetros não foram disponibilizados
+pela interface utilizada.
+
+### Decisão
+
+Resultado aceito como a sexta descoberta de **Ecos de uma Civilização**. A
+peça passa a integrar a coleção como primeira evidência de que o motivo das
+três correntes pode estar ligado à maneira como a civilização representava ou
+organizava o espaço, sem determinar ainda se essas linhas correspondem a
+caminhos, cursos d’água, territórios ou outra estrutura.
