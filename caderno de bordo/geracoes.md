@@ -119,3 +119,126 @@ A recorrência das três correntes e o apagamento intencional de uma delas passa
 a integrar o conhecimento acumulado para a preparação da descoberta 03. O
 significado das correntes e a autoria ou motivação da destruição permanecem
 como questões abertas.
+
+---
+
+## 23/09/2026 — Preparação da descoberta 03
+
+### Conhecimento considerado
+
+A preparação partiu do apagamento intencional registrado no Limiar Apagado: uma
+das três faixas do portal teve seu cobre removido, os símbolos raspados e a
+pedra marcada por golpes de cinzel, enquanto as outras duas permaneceram
+preservadas.
+
+### Ponto de partida escolhido
+
+A exploração avança para além do portal danificado, até uma pequena câmara sem
+outras saídas visíveis, batizada provisoriamente de **A Câmara do Terceiro
+Vazio**. Ao fundo há um nicho com três receptáculos circulares: dois guardam
+discos de cobre oxidado, e o terceiro está vazio, mas com superfície lisa e
+polida, sem sinais de violência.
+
+### Motivo da escolha
+
+O grupo decidiu que a terceira descoberta deveria reabrir a interpretação
+estabelecida pela descoberta 02, em vez de apenas confirmá-la. Em vez de
+reforçar a ideia de destruição, o nicho sugere que o objeto associado à
+terceira corrente foi retirado com cuidado — uma remoção, não um ataque. Isso
+introduz uma contradição relevante: o mesmo símbolo recebeu tratamentos muito
+diferentes em locais distintos da estrutura.
+
+### Decisões para a imagem
+
+- utilizar as duas primeiras imagens como referência de material, pedra e
+  oxidação do cobre;
+- manter exatamente três receptáculos no nicho;
+- preservar dois receptáculos com discos de cobre e resíduo orgânico
+  mineralizado;
+- apresentar o terceiro receptáculo vazio, mas liso e sem marcas de violência,
+  em contraste direto com o dano do portal;
+- não revelar o destino do objeto ausente nem quem o retirou;
+- manter a aparência de fotografia arqueológica documental.
+
+### Estado atual
+
+O prompt foi utilizado no ChatGPT com as duas primeiras imagens como
+referência. O resultado trouxe uma variação em relação ao previsto: em vez de
+um receptáculo vazio e polido, o terceiro receptáculo aparece coberto por uma
+protuberância lisa e abaulada esculpida na própria pedra, sem nenhum traço de
+cobre. O grupo avaliou que essa variação era ainda mais interessante do que a
+ideia original, pois sugere um selamento deliberado em vez de uma simples
+ausência, reforçando o contraste com o apagamento violento do portal.
+
+A descrição em `colecao/03-descoberta/descricao.md` foi ajustada para refletir
+esse resultado. A imagem foi armazenada em `colecao/03-descoberta/imagem.png`.
+O modelo específico, a seed e os demais parâmetros não foram disponibilizados
+pela interface utilizada.
+
+### Decisão
+
+Resultado aceito como a terceira descoberta de **Ecos de uma Civilização**. O
+selamento do terceiro receptáculo passa a integrar o conhecimento acumulado
+para a preparação da descoberta seguinte. Permanece em aberto se algo ainda
+está oculto sob a protuberância e qual sua relação com o disco de cobre
+encontrado na descoberta 04.
+
+---
+
+## 23/09/2026 — Preparação da descoberta 04
+
+### Conhecimento considerado
+
+A preparação partiu da remoção cuidadosa registrada na Câmara do Terceiro
+Vazio: um objeto associado à terceira corrente foi retirado de um receptáculo
+sem sinais de dano, ao contrário do apagamento violento observado no portal.
+
+### Ponto de partida escolhido
+
+Fora do caminho principal da escavação, a equipe encontra um recuo estreito na
+rocha, selado com argamassa, contendo um pequeno disco de cobre oxidado
+embrulhado em tecido mineralizado — batizado provisoriamente de **O Disco
+Oculto**. O disco repete o motivo das três correntes, mas com uma variação:
+as três linhas convergem para uma pequena saliência central, e não para um
+vazio.
+
+### Motivo da escolha
+
+Como as descobertas 01 e 03 deixaram cavidades e receptáculos vazios sem
+explicação, o grupo decidiu que a quarta descoberta deveria apresentar, pela
+primeira vez, um objeto portátil isolado que possa (mas não deva ser
+confirmado que) estar relacionado a esses vazios. A variação do símbolo — uma
+saliência em vez de um vazio — foi escolhida para aprofundar o motivo das três
+correntes sem resolver seu significado, e o cuidado no esconderijo reforça a
+leitura de remoção deliberada, e não destruição, iniciada na descoberta 03.
+
+### Decisões para a imagem
+
+- utilizar as descobertas anteriores como referência de material e oxidação;
+- fotografar o disco isoladamente, em plano fechado, com escala de referência;
+- manter as três linhas sinuosas, agora convergindo para uma saliência central;
+- incluir vestígios do tecido mineralizado e do esconderijo selado, sem revelar
+  novas salas ao fundo;
+- não confirmar se o disco pertence à estela, ao nicho, a nenhum ou a ambos;
+- manter a aparência de fotografia arqueológica documental.
+
+### Estado atual
+
+O prompt foi utilizado no ChatGPT com as descobertas anteriores como
+referência. A imagem resultante mostra o disco de cobre oxidado em plano
+fechado, com as três linhas convergindo para uma saliência central, tecido
+mineralizado ao redor da borda, escala métrica e um fragmento de argamassa
+visível junto à abertura do esconderijo ao fundo — correspondendo bem ao que
+havia sido planejado. A imagem foi armazenada em
+`colecao/04-descoberta/imagem.png`, acompanhada de sua descrição.
+
+O modelo específico, a seed e os demais parâmetros não foram disponibilizados
+pela interface utilizada.
+
+### Decisão
+
+Resultado aceito como a quarta descoberta de **Ecos de uma Civilização**. A
+existência de um objeto deliberadamente escondido, e não destruído, passa a
+integrar o conhecimento acumulado. Permanece em aberto se o disco pertence à
+cavidade da estela, ao receptáculo selado do nicho, a nenhum dos dois, e quem
+o escondeu.
