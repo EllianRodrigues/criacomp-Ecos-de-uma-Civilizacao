@@ -13,6 +13,11 @@ colecao/
 ├── 01-descoberta/
 ├── 02-descoberta/
 ├── 03-descoberta/
+├── 04-descoberta/
+├── 05-descoberta/
+├── 06-descoberta/
+├── 07-descoberta/
+├── 08-descoberta/
 └── ...
 ```
 

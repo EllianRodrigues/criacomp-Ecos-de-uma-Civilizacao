@@ -388,3 +388,130 @@ peça passa a integrar a coleção como primeira evidência de que o motivo das
 três correntes pode estar ligado à maneira como a civilização representava ou
 organizava o espaço, sem determinar ainda se essas linhas correspondem a
 caminhos, cursos d’água, territórios ou outra estrutura.
+
+---
+
+## 24/09/2026 — Preparação da descoberta 07
+
+### Conhecimento considerado
+
+A preparação considerou o Fragmento das Três Rotas (06), com suas linhas
+distribuídas por uma superfície ampla, e a Estela das Três Correntes (01), em
+que três sulcos convergem para uma cavidade central vazia. Também permaneceu
+em aberto a possível relação entre essa cavidade e o Disco Oculto (04).
+
+### Ponto de partida escolhido
+
+Foi escolhida uma nova placa de pedra escura, próxima ao Fragmento das Três
+Rotas, com três sulcos que se aproximam de uma cavidade circular central. A
+peça recebeu o nome **A Confluência Vazia**.
+
+### Motivo da escolha
+
+A sétima descoberta aproxima visualmente duas formas do motivo triplo já
+observadas: linhas distribuídas numa placa e linhas que convergem para um
+centro. A intenção foi começar a sugerir que esses padrões poderiam fazer
+parte de uma organização relacionada, sem determinar se representam caminhos,
+territórios, grupos ou outra coisa.
+
+### Decisões para a imagem
+
+- utilizar as imagens 06 e 01 como referências, nessa ordem;
+- manter três canais sinuosos convergindo para uma cavidade central vazia;
+- preservar pedra escura, resíduos azul-esverdeados de cobre e sinais
+  geométricos abstratos;
+- não mostrar o disco encaixado nem confirmar a função da placa;
+- manter aparência de fotografia arqueológica documental.
+
+### Estado atual
+
+A imagem gerada apresenta uma placa larga e irregular de pedra escura, vista de
+cima. Três canais sinuosos com resíduos azul-esverdeados convergem para uma
+cavidade circular central vazia. Marcas gravadas acompanham os canais, e a
+escala arqueológica e os fragmentos ao redor mantêm o contexto de escavação.
+O resultado reúne características visuais da estela e do Fragmento das Três
+Rotas, mas não confirma que o disco oculto pertença à placa.
+
+O prompt foi utilizado no ChatGPT com as imagens das descobertas 06 e 01 como
+referências. Modelo específico, seed, outros parâmetros e quantidade de
+tentativas não foram informados.
+
+### Decisão
+
+Resultado aceito como a sétima descoberta de **Ecos de uma Civilização**. A
+possível relação entre os três trajetos e um ponto central passa a ser uma
+hipótese visual da coleção. A função da placa, o significado dos sinais e a
+relação com o Disco Oculto permanecem em aberto.
+
+### Direção possível para a descoberta 09
+
+Considerar um material diferente de pedra, como um fragmento de tecido
+mineralizado preservado no sedimento. Nele, padrões de fibras, manchas de
+cobre ou resíduos poderiam sugerir que objetos circulavam entre pontos
+associados às três rotas. Essa direção deve ser tratada como possibilidade,
+sem afirmar que o tecido é um mapa ou que comprova uma rede de grupos.
+
+---
+
+## 24/09/2026 — Preparação da descoberta 08
+
+### Conhecimento considerado
+
+A preparação partiu da descoberta 07, A Confluência Vazia, que aproximou
+visualmente a placa de três rotas e a estela com linhas convergindo para uma
+cavidade central. A função da placa e o significado das três partes continuam
+desconhecidos.
+
+### Ponto de partida escolhido
+
+O grupo escolheu procurar um objeto de material diferente das placas de pedra
+e dos discos de cobre. A equipe encontra tecido mineralizado ao lado da placa
+da descoberta 07. O tecido tem três faixas com tramas diferentes, entrelaçadas
+em alguns trechos; uma delas foi remendada com fibras diferentes. A imagem
+também apresenta uma estrutura retangular de madeira mineralizada aberta.
+
+### Motivo da escolha
+
+A descoberta introduz um artefato possivelmente utilitário e transportável,
+em vez de repetir a forma de uma placa ou disco. As faixas distintas, seus
+entrelaçamentos e o remendo podem sugerir partes diferentes mantidas em
+relação, ou a manutenção de um objeto importante. A possível correspondência
+com os canais da placa permanece parcial e não confirma que o tecido e a pedra
+eram usados juntos.
+
+### Decisões para a imagem
+
+- utilizar a imagem 07 como referência do ambiente e da placa;
+- representar tecido mineralizado, não outra peça de pedra ou metal;
+- mostrar três faixas longitudinais de tramas distintas e pontos de união;
+- incluir um remendo antigo feito com fibras diferentes;
+- manter a correspondência com os canais apenas parcial;
+- não explicar definitivamente a função do tecido.
+
+### Estado atual
+
+A imagem gerada mostra o tecido mineralizado disposto sobre parte da placa da
+Confluência Vazia. As três faixas têm tramas diferentes; uma região apresenta
+um remendo de fibras mais claras. Uma estrutura retangular de madeira
+mineralizada aparece aberta nas proximidades. Em alguns trechos as faixas
+acompanham os canais da placa, mas a correspondência não é completa.
+
+A imagem foi gerada com o modelo 5.6-Sol-medium, conforme informado. A seed,
+outros parâmetros e a quantidade de tentativas não foram informados. O arquivo
+foi armazenado em `colecao/08-descoberta/imagem.png`.
+
+### Decisão
+
+Resultado aceito como a oitava descoberta de **Ecos de uma Civilização**. O
+tecido acrescenta uma evidência material nova e sugere uma possível relação
+entre as três faixas e os canais da placa, sem confirmar sua função, sua
+origem ou o significado social do padrão.
+
+### Direção possível para a descoberta 09
+
+Desenvolver uma pista deixada pelo tecido sem voltar a um artefato de pedra:
+por exemplo, encontrar resíduos ou fibras compatíveis em um objeto de uso
+cotidiano, ou vestígios de que o tecido servia para envolver ou transportar
+algo relacionado às três partes. A descoberta pode começar a dar contexto à
+circulação ou manutenção entre diferentes pontos, mantendo a função exata em
+aberto.
