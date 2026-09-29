@@ -6,6 +6,9 @@ Enquanto o `caderno-de-bordo/` registra cronologicamente experimentações,
 erros e mudanças de direção, esta pasta reúne versões organizadas das
 principais definições do projeto.
 
+## Apresentação
+[Link da Apresentação](https://canva.link/9bxqy88e6mn7l1g)
+
 ## Arquivos
 
 ### `eixo.md`
