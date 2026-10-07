@@ -32,3 +32,10 @@ civilização e qual é o papel do grupo e da IA.
 
 Materiais utilizados na apresentação do projeto, como slides, roteiro,
 imagens selecionadas e outros recursos.
+
+### `relatorio-post-mortem.pdf`
+
+Relatório final de quatro páginas com o relato cronológico, a revisão do eixo,
+o principal desafio, um erro do processo, os aprendizados e a divisão nominal
+do trabalho. O arquivo `relatorio-post-mortem.html` preserva a versão editável
+utilizada para gerar o PDF.

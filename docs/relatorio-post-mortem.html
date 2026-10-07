@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Post-mortem — Ecos de uma Civilização</title>
+  <style>
+    @page { size: A4; margin: 0; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: #d9d5ca; color: #20231f; }
+    body { font-family: Arial, Helvetica, sans-serif; font-size: 10.35pt; line-height: 1.36; }
+    .page {
+      position: relative;
+      width: 210mm;
+      height: 297mm;
+      padding: 14mm 16mm 14mm;
+      background: #f5f2e9;
+      page-break-after: always;
+      overflow: hidden;
+    }
+    .page:last-child { page-break-after: auto; }
+    .topline { height: 2.2mm; background: #4b978d; margin: -14mm -16mm 7mm; }
+    .kicker { color: #397c73; font-size: 7.8pt; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+    h1 { margin: 1.5mm 0 1mm; color: #1e2521; font: 700 24pt/1.03 Georgia, serif; }
+    .subtitle { margin: 0 0 5mm; color: #6f6d60; font-size: 9pt; }
+    .hero { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2mm; height: 28mm; margin-bottom: 5mm; }
+    .hero img { width: 100%; height: 28mm; object-fit: cover; object-position: center 48%; filter: saturate(.82) contrast(1.03); }
+    h2 {
+      margin: 4.2mm 0 1.8mm;
+      padding-bottom: 1.1mm;
+      border-bottom: .45mm solid #4b978d;
+      color: #21312c;
+      font: 700 14.2pt/1.05 Georgia, serif;
+    }
+    h2 .n { color: #4b978d; margin-right: 1.6mm; }
+    p { margin: 0 0 2.65mm; text-align: justify; hyphens: auto; }
+    strong { color: #263c36; }
+    .callout {
+      margin: 3mm 0;
+      padding: 2.8mm 3.5mm;
+      border-left: 1.2mm solid #4b978d;
+      background: #e6ebe3;
+      color: #2a3732;
+    }
+    .callout.error { border-left-color: #a76943; background: #eee4da; }
+    .learning { display: grid; grid-template-columns: 28mm 1fr; gap: 3mm; margin: 0 0 3mm; padding: 3mm; background: #e8ebe4; }
+    .learning .label { color: #397c73; font-size: 8pt; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+    .learning p { margin: 0; text-align: left; }
+    .member { margin: 0 0 2.4mm; padding: 2.6mm 3.2mm; background: #e8ebe4; border-left: .8mm solid #4b978d; }
+    .member p { margin: 0; text-align: left; }
+    .member strong { font-family: Georgia, serif; font-size: 10.2pt; }
+    .note { color: #66695f; font-size: 7.7pt; }
+    .footer {
+      position: absolute;
+      left: 16mm;
+      right: 16mm;
+      bottom: 7mm;
+      display: flex;
+      justify-content: space-between;
+      padding-top: 1.5mm;
+      border-top: .25mm solid #9ba89d;
+      color: #73776e;
+      font-size: 7pt;
+      letter-spacing: .04em;
+    }
+    .compact p { margin-bottom: 2.2mm; }
+  </style>
+</head>
+<body>
+  <section class="page">
+    <div class="topline"></div>
+    <div class="kicker">Post-mortem da coleção · setembro de 2026</div>
+    <h1>Ecos de uma Civilização</h1>
+    <p class="subtitle">Criatividade Computacional · CIn/UFPE · 2026.2</p>
+
+    <div class="hero">
+      <img src="../colecao/01-descoberta/imagem.png" alt="Estela das Três Correntes">
+      <img src="../colecao/06-descoberta/imagem.png" alt="Fragmento das Três Rotas">
+      <img src="../colecao/12-descoberta/imagem.png" alt="Placa das Quatro Partes">
+    </div>
+
+    <h2><span class="n">1.</span> O relato</h2>
+    <p>Em <strong>9 de setembro de 2026</strong>, o grupo partiu da ideia de um museu virtual de uma civilização desaparecida. Na discussão registrada naquele dia, percebeu que reunir objetos da mesma civilização ainda produziria apenas um lote. Com as skills <em>abrir-o-leque</em>, <em>afiar-o-eixo</em> e <em>derrubar-a-ideia</em>, transformou a proposta em uma escavação sequencial: cada imagem passaria a ser uma descoberta que alterava o contexto da seguinte. Também recusou a restrição de nunca mostrar a civilização diretamente e adotou outra, mais operacional: nenhuma novidade poderia entrar sem sustentação no conhecimento acumulado.</p>
+    <p>A coleção começou a existir de fato em <strong>22 de setembro</strong>, quando Ellian Rodrigues produziu e registrou a Estela das Três Correntes e O Limiar Apagado. A estela estabeleceu pedra escura, cobre oxidado, inscrições, reparos e três linhas convergentes; o portal acrescentou o apagamento intencional de uma delas. Em <strong>23 de setembro</strong>, Aline Marianna criou as descobertas 03 e 04, convertendo a ausência em selamento e depois em ocultação deliberada; no mesmo dia, Nícolas Veiga criou as descobertas 05 e 06, levando o padrão triplo para uma prática material e para uma possível organização espacial.</p>
+    <p>Em <strong>24 de setembro</strong>, Amanda Arruda produziu as descobertas 07 e 08, aproximando rotas e convergência e depois mudando o suporte da pedra para um tecido reparado. Fabriely Santos produziu as descobertas 09 e 10, levando a investigação ao cesto, aos resíduos e aos recipientes utilitários. Foi nesse bloco que o processo travou: a primeira versão da descoberta 10 mostrou uma cozinha e tratou os resíduos como alimento antes de haver evidência para isso. A imagem foi descartada, o prompt foi refeito e a investigação voltou ao interior do próprio cesto.</p>
+    <p>Em <strong>28 de setembro</strong>, Monyque Lima concluiu a sequência com A Grade dos Quatro Espaços e A Placa das Quatro Partes. As últimas peças mudaram a leitura do motivo: três elementos também podiam funcionar como divisórias de quatro campos. Ainda em 28 de setembro, Ellian organizou a primeira versão da apresentação e o roteiro. Em <strong>29 de setembro</strong>, Amanda consolidou o caderno de bordo e adicionou a versão final da apresentação em PDF. A coleção terminou com doze imagens, um descarte preservado e uma interpretação ainda aberta, não com uma tradução definitiva das inscrições.</p>
+
+    <h2><span class="n">2.</span> O eixo, revisitado</h2>
+    <p>O eixo declarado em 9 de setembro permaneceu reconhecível na entrega: a ordem importou, cada descoberta partiu das anteriores e nenhuma imagem deveria apenas repetir a estética. O conteúdo mudou — o mistério da “terceira corrente” terminou como um problema mais amplo de conexão e separação entre partes —, mas isso ocorreu dentro do eixo, não por substituição dele.</p>
+    <p>Manter o eixo teve custo concreto. Em 24 de setembro, o grupo abriu mão da cozinha já gerada porque ela exigia aceitar, de uma vez, que os resíduos eram alimentos, que existia uma área doméstica próxima e que os dois espaços tinham relação funcional. A descoberta 10 ficou mais contida: mostrou somente os recipientes efetivamente encontrados no cesto. Esse descarte foi a prova de que a continuidade funcionou como restrição e não apenas como justificativa posterior.</p>
+
+    <div class="footer"><span>ECOS DE UMA CIVILIZAÇÃO · POST-MORTEM</span><span>1 / 4</span></div>
+  </section>
+
+  <section class="page compact">
+    <div class="topline"></div>
+    <div class="kicker">Problemas encontrados</div>
+
+    <h2><span class="n">3.</span> O desafio</h2>
+    <p>O maior desafio foi <strong>controlar o tamanho de cada avanço narrativo enquanto seis pessoas produziam uma série dependente</strong>. Cada integrante recebeu duas descobertas, mas não podia começar do zero: precisava distinguir o que a imagem anterior mostrava, o que sua descrição apenas sugeria e o que ainda não podia ser afirmado. O problema consumiu tempo porque uma imagem podia manter pedra, cobre e inscrições e, mesmo assim, quebrar a coleção ao introduzir conclusões demais.</p>
+    <p>O caso mais claro ocorreu entre O Cesto de Travessia e a primeira tentativa da descoberta 10. O cesto continha resíduos escurecidos semelhantes a grãos, cerâmica e material mineral, mas a descrição da descoberta 09 recusava identificá-los como alimentos. A tentativa seguinte pulou dessa incerteza para uma cozinha com fogareiro, pedra de moagem e recipiente reparado. Para aceitar a cena, o grupo teria de confirmar três hipóteses que o próprio artefato anterior havia mantido abertas.</p>
+    <p>Antes de resolver o problema, o grupo já havia tentado manter continuidade por referências visuais, repetição das três correntes e reaproveitamento de pedra escura, cobre oxidado, inscrições e reparos. Isso garantiu unidade formal, mas não controlou as afirmações narrativas. A saída foi voltar fisicamente ao cesto: a descoberta 10 revelou quatro recipientes sob a camada superior; a 11 revelou a grade que os separava; e a 12 ligou a grade a uma placa inscrita. Três etapas substituíram a conclusão prematura de “cozinha” por evidências graduais de manipulação e separação de materiais.</p>
+
+    <div class="callout">O desafio não foi produzir imagens parecidas. Foi impedir que a interpretação avançasse mais rápido do que os vestígios.</div>
+
+    <h2><span class="n">4.</span> O erro</h2>
+    <p>O erro que não repetiríamos foi <strong>incorporar as descobertas 11 e 12 sem exigir o mesmo pacote de documentação das dez anteriores</strong>. Monyque Lima adicionou as duas imagens e suas descrições em 28 de setembro, e o grupo as aceitou como fechamento da coleção. Entretanto, não foram preservados os prompts, a ferramenta, o modelo, os parâmetros, as referências nem a sessão de geração dessas peças.</p>
+    <p>A consequência apareceu no processo, mesmo que as imagens finais permanecessem coerentes. Para as descobertas 01–10, era possível reconstruir a direção escolhida, o contexto fornecido, a ferramenta usada e a avaliação do resultado. Para as duas últimas, só era possível reconstruir a decisão conceitual a partir das descrições. Isso enfraqueceu justamente a distinção que o grupo queria apresentar entre decisões humanas e contribuições da IA.</p>
+    <p>O problema ficou explícito em <strong>29 de setembro</strong>, quando Amanda Arruda consolidou o caderno de bordo e precisou registrar “ferramenta não registrada”, “parâmetros não registrados” e “prompt ou sessão de geração não registrados”. O histórico não nomeou uma reunião específica sobre essa decisão; mostrou Monyque como autora do par final e Amanda como responsável pela consolidação que detectou a lacuna. Por isso, o erro foi tratado como falha do critério coletivo de conclusão, e não como responsabilidade isolada de quem produziu as imagens.</p>
+
+    <div class="callout error">O custo foi a perda de reprodutibilidade das duas peças que encerraram a coleção. A partir dali, imagem e descrição já não bastavam para considerar uma descoberta documentalmente concluída.</div>
+
+    <div class="footer"><span>ECOS DE UMA CIVILIZAÇÃO · POST-MORTEM</span><span>2 / 4</span></div>
+  </section>
+
+  <section class="page">
+    <div class="topline"></div>
+    <div class="kicker">Consequências para o próximo projeto</div>
+
+    <h2><span class="n">5.</span> O aprendizado</h2>
+
+    <div class="learning">
+      <div class="label">Ferramentas</div>
+      <p><strong>Referência visual resolveu consistência, mas não resolveu rastreabilidade.</strong> O ChatGPT foi registrado nas descobertas 01–08, e o Codex com gerador integrado nas 09–10. Imagens anteriores foram usadas para manter pedra, cobre, inscrições e enquadramento. Ao mesmo tempo, seeds e parâmetros nem sempre ficaram disponíveis, e as descobertas 11–12 perderam até o registro da ferramenta. A partir desse episódio, o grupo concluiu que prompt, ferramenta, referência e resultado precisavam ser salvos no momento da geração, não reconstruídos no fim.</p>
+    </div>
+
+    <div class="learning">
+      <div class="label">Criar em série</div>
+      <p><strong>A unidade de uma série estava na dependência entre as peças, não na repetição do estilo.</strong> A cozinha descartada provou que uma imagem arqueológica convincente podia estar errada para aquele ponto da sequência. O procedimento que funcionou foi listar, antes de cada prompt, os fatos confirmados, as hipóteses abertas e a única informação nova que a próxima descoberta poderia sustentar. As descobertas 10–12 resultaram dessa desaceleração.</p>
+    </div>
+
+    <div class="learning">
+      <div class="label">Trabalho em grupo</div>
+      <p><strong>Dividir igualmente os artefatos não garantiu uma divisão igual da documentação.</strong> Cada integrante entregou duas descobertas, o que permitiu produzir doze peças entre 22 e 28 de setembro. Porém, a série dependia de passagens de contexto entre os pares, e as tarefas transversais ficaram concentradas: Ellian estruturou o repositório e a primeira apresentação; Amanda consolidou o caderno e a apresentação final; Fabriely documentou o único descarte. A lacuna das peças 11–12 mostrou que o grupo precisava de uma definição comum de “pronto”.</p>
+    </div>
+
+    <p>Para o Projeto Ferramenta, o grupo definiu como prática necessária um checklist de entrega por etapa: artefato, descrição, prompt, ferramenta/modelo, referências, tentativas, decisão e atualização do contexto. Também concluiu que a revisão deveria acontecer a cada passagem entre integrantes, porque uma inconsistência descoberta apenas na consolidação final já não podia ser corrigida sem refazer a memória do processo.</p>
+
+    <div class="callout">Os três aprendizados vieram de episódios rastreáveis: referências visuais usadas nas gerações, descarte da cozinha em 24/09 e ausência dos registros das descobertas 11–12 constatada em 29/09.</div>
+
+    <div class="footer"><span>ECOS DE UMA CIVILIZAÇÃO · POST-MORTEM</span><span>3 / 4</span></div>
+  </section>
+
+  <section class="page">
+    <div class="topline"></div>
+    <div class="kicker">Responsabilidades registradas</div>
+
+    <h2><span class="n">6.</span> A divisão do trabalho</h2>
+
+    <div class="member"><p><strong>Ellian Rodrigues.</strong> Estruturou o repositório e a documentação inicial em 10 de setembro. Em 22 de setembro, produziu a Estela das Três Correntes e O Limiar Apagado, com imagens, descrições, prompts, registros de geração e atualização das ferramentas. Em 28 de setembro, criou o gerador da apresentação e o roteiro oral.</p></div>
+
+    <div class="member"><p><strong>Aline Marianna.</strong> Em 23 de setembro, produziu A Câmara do Terceiro Vazio e O Disco Oculto. Registrou as imagens, descrições e prompts e atualizou o caderno de gerações com a passagem do apagamento para o selamento e, depois, para a preservação secreta da terceira corrente.</p></div>
+
+    <div class="member"><p><strong>Nícolas Veiga.</strong> Em 23 de setembro, produziu A Mesa das Três Ofertas e O Fragmento das Três Rotas. Registrou imagens, descrições e prompts e atualizou o caderno, levando o padrão triplo de objetos e arquitetura para uma prática material e uma possível representação espacial.</p></div>
+
+    <div class="member"><p><strong>Amanda Arruda.</strong> Em 24 de setembro, produziu A Confluência Vazia e O Tecido das Três Tramas, com imagens, descrições, prompts e registros no caderno. Também atualizou a organização da coleção. Em 29 de setembro, reuniu o processo no caderno de bordo consolidado, adicionou a nova versão da apresentação em PDF e vinculou esse material à documentação.</p></div>
+
+    <div class="member"><p><strong>Fabriely Santos.</strong> Em 24 de setembro, produziu O Cesto de Travessia e Os Recipientes do Cesto, com imagens, descrições, prompts e atualização do caderno. Gerou a primeira versão da descoberta 10, registrou seu descarte por salto narrativo e documentou a reformulação que manteve a investigação dentro do cesto.</p></div>
+
+    <div class="member"><p><strong>Monyque Lima.</strong> Em 28 de setembro, produziu A Grade dos Quatro Espaços e A Placa das Quatro Partes, adicionando as imagens e descrições que fecharam a coleção e reinterpretaram as três linhas como elementos capazes de dividir quatro campos. O repositório não preservou os prompts nem os dados técnicos dessas duas gerações.</p></div>
+
+    <p><strong>A divisão dos artefatos foi uniforme: duas descobertas por integrante. A divisão total foi desigual.</strong> As tarefas de estruturação, consolidação e apresentação ficaram principalmente com Ellian e Amanda; o registro do descarte ficou com Fabriely. Não foram encontrados registros que permitissem atribuir nominalmente organização de reuniões ou apresentação oral, por isso essas atividades não foram creditadas sem evidência.</p>
+
+    <p class="note">Base documental: caderno de bordo consolidado, arquivos de prompts, descrições da coleção, registro de descartes e histórico de commits do repositório entre 10 e 29 de setembro de 2026.</p>
+
+    <div class="footer"><span>ECOS DE UMA CIVILIZAÇÃO · POST-MORTEM</span><span>4 / 4</span></div>
+  </section>
+</body>
+</html>
